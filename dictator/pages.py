@@ -3,8 +3,10 @@ from .models import Constants
 
 
 class Introduction(Page):
-    pass
+    def is_displayed(self):
+        return True
 
+#pass
 
 class Offer(Page):
     form_model = 'group'

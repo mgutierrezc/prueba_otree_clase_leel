@@ -13,6 +13,9 @@ from otree.api import (
 doc = """
 Este es una aplicación de prueba de oTree que consiste
 en que hay jugadores negociando entre sí
+
+
+agfhakñlfdñasbd
 """
 
 
