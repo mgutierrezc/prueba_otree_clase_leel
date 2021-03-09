@@ -11,9 +11,8 @@ from otree.api import (
 
 
 doc = """
-This bargaining game involves 2 players. Each demands for a portion of some
-available amount. If the sum of demands is no larger than the available
-amount, both players get demanded portions. Otherwise, both get nothing.
+Este es una aplicación de prueba de oTree que consiste
+en que hay jugadores negociando entre sí
 """
 
 
